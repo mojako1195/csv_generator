@@ -1,0 +1,15 @@
+.box {
+  padding: 0.2em 0.5em;
+  margin: 2em 5em;
+  background: #d6ebff;
+  box-shadow: 0px 0px 0px 10px #d6ebff;
+  border: dashed 2px white;
+}
+.box p {
+  margin: 20px;
+  padding: 0;
+}
+.box p.title {
+  font-size: large;
+  font-weight: bold;
+}
